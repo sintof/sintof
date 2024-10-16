@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sintof
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web-development
-- 📫 How to reach me @sintofk in telegram😉
+- 📫 How to reach me @estomos in telegram😉
 
 <!---
 sintof/sintof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
