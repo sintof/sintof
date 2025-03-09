@@ -1,7 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sintof&label=Profile%20views&color=0e75b6&style=flat" alt="sintof" /> </p>
+
 - 👋 Hi, I’m @sintof
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web-development
 - 📫 How to reach me @estomos in telegram😉
+
 
 <!---
 sintof/sintof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
