@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 ![My CodeWars stats](https://www.codewars.com/users/notark/badges/large)
 
 # My account statistics 
-![My GitHub stats](https://github-readme-stats-sooty-five-44.vercel.app/api?username=sintof&show_icons=true&theme=dracula)
+![My GitHub stats](https://readmestatussintof.vercel.app/api?username=sintof&show_icons=true&theme=dracula)
 
 # My favourite languages
 
-[![Top Langs](https://github-readme-stats-sooty-five-44.vercel.app/api/top-langs/?username=sintof)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readmestatussintof.vercel.app/api/top-langs/?username=sintof)](https://github.com/anuraghazra/github-readme-stats)
 
