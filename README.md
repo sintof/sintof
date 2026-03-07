@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sintof&label=Profile%20views&color=0e75b6&style=flat" alt="sintof" /> </p>
 
-- 👋 Hi, I’m @sintof
+- 👋 Hi, I’m Komronbek, Software Engineer
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning web-development
-- 📫 How to reach me @estomos in telegram😉
+- 🌱 I’m currently at ```Yandex```
+- 📫 How to reach me @cpacode in telegram😉
 
 
 <!---
