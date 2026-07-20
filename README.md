@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Komronbek, Software Engineer
 - 👀 I’m interested in coding 
-- 🌱 I’m currently at ```Yandex```
+- 🌱 I’m currently at ```Uzum```
 - 📫 How to reach me @cpacode in telegram😉
 
 
